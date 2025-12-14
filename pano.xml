@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input leveltileurl="tiles/внешка улицы/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-31.2769" fov="5"/>
+      <max pan="180" tilt="31.2769" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="164.838/0/56.6257" title="" url="{node2}" pan="169.05" description="" tilt="4.12"/>
+      <hotspot id="Point02" skinid="ht_node" target="156.408/0/56.6257" title="" url="{node2}" pan="155.52" description="" tilt="4.68"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/вход/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.3129" fov="5"/>
+      <max pan="180" tilt="28.3129" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="161.42/0/62.5537" title="" url="{node1}" pan="-12.19" description="" tilt="-11.8"/>
+      <hotspot id="Point02" skinid="ht_node" target="-43.2745/0/53.1935" title="" url="{node3}" pan="179.5" description="" tilt="-4.64"/>
+      <hotspot id="Point03" skinid="ht_node" target="-49.0127/0/53.1935" title="" url="{node3}" pan="142.81" description="" tilt="-2.94"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/1 этаж коридор 9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.5967" fov="5"/>
+      <max pan="180" tilt="26.5967" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-26.5095/8.75514e-06/56.6257" title="" url="{node2}" pan="-47.21" description="" tilt="-2.26"/>
+      <hotspot id="Point02" skinid="ht_node" target="-26.1988/-8.75514e-06/56.6257" title="" url="{node2}" pan="-70.93" description="" tilt="-5.3"/>
+      <hotspot id="Point03" skinid="ht_node" target="74.5421/0/58.248" title="" url="{node4}" pan="-17.66" description="" tilt="-0.42"/>
+      <hotspot id="Point04" skinid="ht_node" target="77.702/0/45.296" title="" url="{node9}" pan="78.44" description="" tilt="2.53"/>
+      <hotspot id="Point05" skinid="ht_node" target="-170.645/0/50.9227" title="" url="{node68}" pan="165.98" description="" tilt="-10.2"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/1 этаж коридор 8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.124" fov="5"/>
+      <max pan="180" tilt="29.124" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="82.4345/0/53.1935" title="" url="{node3}" pan="-109.15" description="" tilt="-1.9"/>
+      <hotspot id="Point02" skinid="ht_node" target="168.448/0/59.1029" title="" url="{node5}" pan="74.46" description="" tilt="-2.98"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/1 этаж коридор 7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.5515" fov="5"/>
+      <max pan="180" tilt="29.5515" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-108.857/0/58.248" title="" url="{node4}" pan="-14.25" description="" tilt="0.97"/>
+      <hotspot id="Point02" skinid="ht_node" target="-105.933/0/60.4769" title="" url="{node16}" pan="167.97" description="" tilt="-3.55"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/коридор 1 этаж номер 10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-24.3041" fov="5"/>
+      <max pan="180" tilt="24.3041" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="76.9006/0/52.9684" title="" url="{node8}" pan="-101.67" description="" tilt="-5.7"/>
+      <hotspot id="Point02" skinid="ht_node" target="166.633/0/55.1994" title="" url="{node44}" pan="166.17" description="" tilt="11.79"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/коридор 1 этаж номер 9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.4842" fov="5"/>
+      <max pan="180" tilt="26.4842" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-105.219/0/45.296" title="" url="{node9}" pan="77.57" description="" tilt="0.7"/>
+      <hotspot id="Point02" skinid="ht_node" target="159.423/0/48.6082" title="" url="{node7}" pan="-91.71" description="" tilt="-9.08"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/коридор 1 этаж номер 8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-22.648" fov="5"/>
+      <max pan="180" tilt="22.648" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-42.1736/0/53.1935" title="" url="{node3}" pan="-104.64" description="" tilt="4.92"/>
+      <hotspot id="Point02" skinid="ht_node" target="-87.3689/0/52.9684" title="" url="{node8}" pan="77.4" description="" tilt="6.01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/коридор 1 этаж номер 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.5186" fov="5"/>
+      <max pan="180" tilt="25.5186" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="88.2013/0/52.2904" title="" url="{node13}" pan="71.89" description="" tilt="-3.18"/>
+      <hotspot id="Point02" skinid="ht_node" target="-35.2875/0/58.6764" title="" url="{node22}" pan="-102.39" description="" tilt="-5.59"/>
+      <hotspot id="Point03" skinid="ht_node" target="-103.858/0/56.7347" title="" url="{node21}" pan="175.27" description="" tilt="-7.51"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/коридор 1 этаж номер 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.1452" fov="5"/>
+      <max pan="180" tilt="26.1452" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="84.2613/0/49.3071" title="" url="{node14}" pan="88.14" description="" tilt="-6.15"/>
+      <hotspot id="Point02" skinid="ht_node" target="-117.163/0/51.0373" title="" url="{node12}" pan="-124.34" description="" tilt="-5.63"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltileurl="tiles/коридор 1 этаж номер 3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-24.6536" fov="5"/>
+      <max pan="180" tilt="24.6536" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="81.8191/0/52.1771" title="" url="{node15}" pan="85.31" description="" tilt="0.9"/>
+      <hotspot id="Point02" skinid="ht_node" target="-126.217/0/52.2904" title="" url="{node13}" pan="-100.7" description="" tilt="-3.22"/>
+      <hotspot id="Point03" skinid="ht_node" target="-112.71/0/54.3123" title="" url="{node23}" pan="167.56" description="" tilt="-6.36"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltileurl="tiles/коридор 1 этаж номер 4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.0885" fov="5"/>
+      <max pan="180" tilt="26.0885" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="77.8212/0/60.4769" title="" url="{node16}" pan="77.7" description="" tilt="-1.05"/>
+      <hotspot id="Point02" skinid="ht_node" target="-100.141/0/49.3071" title="" url="{node14}" pan="-115.45" description="" tilt="-3.7"/>
+      <hotspot id="Point03" skinid="ht_node" target="-18.2198/0/52.2904" title="" url="{node24}" pan="167.5" description="" tilt="-8.89"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltileurl="tiles/коридор 1 этаж номер 5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-30.2385" fov="5"/>
+      <max pan="180" tilt="30.2385" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-15.128/0/59.1029" title="" url="{node5}" pan="79.53" description="" tilt="-4.32"/>
+      <hotspot id="Point02" skinid="ht_node" target="141.781/0/56.1889" title="" url="{node17}" pan="-159.26" description="" tilt="-13"/>
+      <hotspot id="Point03" skinid="ht_node" target="-142.514/0/52.1771" title="" url="{node15}" pan="-41.84" description="" tilt="-5.97"/>
+      <hotspot id="Point04" skinid="ht_node" target="-7.84962/0/55.4201" title="" url="{node18}" pan="-116.03" description="" tilt="-7.95"/>
+      <hotspot id="Point05" skinid="ht_node" target="-10.5557/0/56.5167" title="" url="{node27}" pan="160.46" description="" tilt="7.59"/>
+      <hotspot id="Point06" skinid="ht_node" target="-12.1656/0/54.3123" title="" url="{node25}" pan="-2.35" description="" tilt="8.72"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltileurl="tiles/коридор 1 этаж номер 6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.0944" fov="5"/>
+      <max pan="180" tilt="28.0944" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="80.6514/0/60.4769" title="" url="{node16}" pan="-72.51" description="" tilt="-5.84"/>
+      <hotspot id="Point02" skinid="ht_node" target="165.066/0/50.4633" title="" url="{node19}" pan="167.71" description="" tilt="-5.29"/>
+      <hotspot id="Point03" skinid="ht_node" target="-13.2796/0/53.1935" title="" url="{node20}" pan="104.93" description="" tilt="-4.01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltileurl="tiles/108 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.71" fov="5"/>
+      <max pan="180" tilt="27.71" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="80.5546/0/60.4769" title="" url="{node16}" pan="116.95" description="" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltileurl="tiles/109 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.2316" fov="5"/>
+      <max pan="180" tilt="25.2316" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="112.417/0/56.1889" title="" url="{node17}" pan="81.82" description="" tilt="-4.99"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltileurl="tiles/110 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.5967" fov="5"/>
+      <max pan="180" tilt="26.5967" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-74.2697/0/56.1889" title="" url="{node17}" pan="130.3" description="" tilt="0.72"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltileurl="tiles/104 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.3673" fov="5"/>
+      <max pan="180" tilt="28.3673" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="82.4183/0/51.0373" title="" url="{node12}" pan="34.75" description="" tilt="-5.73"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltileurl="tiles/105 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.3382" fov="5"/>
+      <max pan="180" tilt="29.3382" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="78.689/0/51.0373" title="" url="{node12}" pan="-168.3" description="" tilt="-1.72"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input leveltileurl="tiles/лестница лево 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.2583" fov="5"/>
+      <max pan="180" tilt="28.2583" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-109.956/0/42.1469" title="" url="{node26}" pan="-12.87" description="" tilt="10.79"/>
+      <hotspot id="Point02" skinid="ht_node" target="79.7557/0/60.4769" title="" url="{node16}" pan="-1.15" description="" tilt="-23.04"/>
+      <hotspot id="Point03" skinid="ht_node" target="160.419/0/50.4633" title="" url="{node31}" pan="138.72" description="" tilt="-10.25"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltileurl="tiles/106 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.1562" fov="5"/>
+      <max pan="180" tilt="27.1562" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="83.6136/0/49.3071" title="" url="{node14}" pan="35.81" description="" tilt="-4.15"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltileurl="tiles/107 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.1452" fov="5"/>
+      <max pan="180" tilt="26.1452" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="80.8755/0/52.1771" title="" url="{node15}" pan="126.75" description="" tilt="-1.73"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input leveltileurl="tiles/лестница право 3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.1562" fov="5"/>
+      <max pan="180" tilt="27.1562" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="78.1225/0/60.4769" title="" url="{node16}" pan="-26.96" description="" tilt="-8.57"/>
+      <hotspot id="Point02" skinid="ht_node" target="172.531/0/48.6082" title="" url="{node30}" pan="-16.49" description="" tilt="18.4"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input leveltileurl="tiles/лестница лево 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-21.0735" fov="5"/>
+      <max pan="180" tilt="21.0735" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-1.5393/0/56.5167" title="" url="{node27}" pan="-103.32" description="" tilt="-17.29"/>
+      <hotspot id="Point02" skinid="ht_node" target="-23.7681/0/56.5167" title="" url="{node58}" pan="-107.47" description="" tilt="14.05"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltileurl="tiles/лестница право 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-24.3041" fov="5"/>
+      <max pan="180" tilt="24.3041" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-20.2814/0/54.3123" title="" url="{node25}" pan="159.15" description="" tilt="-15.31"/>
+      <hotspot id="Point02" skinid="ht_node" target="-4.16967/0/52.9684" title="" url="{node29}" pan="169.01" description="" tilt="18.67"/>
+      <hotspot id="Point03" skinid="ht_node" target="163.623/0/50.4633" title="" url="{node31}" pan="5.24" description="" tilt="-9.84"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltileurl="tiles/лестница право 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.4842" fov="5"/>
+      <max pan="180" tilt="26.4842" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="162.954/0/48.6082" title="" url="{node30}" pan="-18.03" description="" tilt="-14.62"/>
+      <hotspot id="Point02" skinid="ht_node" target="-161.384/0/56.5167" title="" url="{node58}" pan="-10.13" description="" tilt="16.92"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltileurl="tiles/2 этаж коридор 4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.2316" fov="5"/>
+      <max pan="180" tilt="25.2316" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="166.151/0/48.6082" title="" url="{node30}" pan="-96.01" description="" tilt="-13.69"/>
+      <hotspot id="Point02" skinid="ht_node" target="-16.5102/0/56.5167" title="" url="{node27}" pan="64.59" description="" tilt="-12.62"/>
+      <hotspot id="Point03" skinid="ht_node" target="-78.6384/0/61.6247" title="" url="{node32}" pan="107.39" description="" tilt="-6.91"/>
+      <hotspot id="Point04" skinid="ht_node" target="81.9965/0/54.9783" title="" url="{node35}" pan="-138.81" description="" tilt="-7.03"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input leveltileurl="tiles/2 этаж коридор 5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-30.8123" fov="5"/>
+      <max pan="180" tilt="30.8123" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-141.105/0/50.4633" title="" url="{node31}" pan="90.84" description="" tilt="-7"/>
+      <hotspot id="Point02" skinid="ht_node" target="-13.4809/0/51.8363" title="" url="{node42}" pan="26.59" description="" tilt="-3.95"/>
+      <hotspot id="Point03" skinid="ht_node" target="169.72/0/59.1029" title="" url="{node36}" pan="-55.9" description="" tilt="-6.02"/>
+      <hotspot id="Point04" skinid="ht_node" target="-107.427/0/60.3719" title="" url="{node37}" pan="-100.01" description="" tilt="-3.98"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input leveltileurl="tiles/2 этаж коридор 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-30.916" fov="5"/>
+      <max pan="180" tilt="30.916" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-100.177/0/57.3859" title="" url="{node34}" pan="-72.38" description="" tilt="1.71"/>
+      <hotspot id="Point02" skinid="ht_node" target="161.631/0/53.8661" title="" url="{node38}" pan="84.05" description="" tilt="1.18"/>
+      <hotspot id="Point03" skinid="ht_node" target="-11.9671/0/57.1693" title="" url="{node39}" pan="12.45" description="" tilt="-2.03"/>
+      <hotspot id="Point04" skinid="ht_node" target="80.1574/0/41.1642" title="" url="{node49}" pan="125.71" description="" tilt="-2.29"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input leveltileurl="tiles/2 этаж коридор 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.693" fov="5"/>
+      <max pan="180" tilt="28.693" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-91.4936/0/54.9783" title="" url="{node35}" pan="-96.8" description="" tilt="2.36"/>
+      <hotspot id="Point02" skinid="ht_node" target="101.668/0/61.8319" title="" url="{node33}" pan="76.35" description="" tilt="1.19"/>
+      <hotspot id="Point03" skinid="ht_node" target="0/0/54.0894" title="" url="{node40}" pan="3.64" description="" tilt="-3.46"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input leveltileurl="tiles/2 этаж коридор 3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.4891" fov="5"/>
+      <max pan="180" tilt="27.4891" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="116.729/0/50.4633" title="" url="{node31}" pan="-107.86" description="" tilt="-10.38"/>
+      <hotspot id="Point02" skinid="ht_node" target="72.2556/0/57.3859" title="" url="{node34}" pan="80.16" description="" tilt="1.67"/>
+      <hotspot id="Point03" skinid="ht_node" target="0.946313/0/55.86" title="" url="{node41}" pan="-3.46" description="" tilt="-5"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input leveltileurl="tiles/212 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.5515" fov="5"/>
+      <max pan="180" tilt="29.5515" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-59.6748/0/61.6247" title="" url="{node32}" pan="14.67" description="" tilt="-1.12"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input leveltileurl="tiles/213 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-30.1859" fov="5"/>
+      <max pan="180" tilt="30.1859" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-99.0509/0/61.6247" title="" url="{node32}" pan="61.38" description="" tilt="-0.63"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input leveltileurl="tiles/206 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.933" fov="5"/>
+      <max pan="180" tilt="26.933" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-71.1176/0/61.8319" title="" url="{node33}" pan="35.87" description="" tilt="2.37"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input leveltileurl="tiles/207 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.5846" fov="5"/>
+      <max pan="180" tilt="28.5846" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="9.37791/0/61.8319" title="" url="{node33}" pan="109.98" description="" tilt="-2.84"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input leveltileurl="tiles/208 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.0447" fov="5"/>
+      <max pan="180" tilt="27.0447" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="1.55119/0/57.3859" title="" url="{node34}" pan="112.84" description="" tilt="0.09"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input leveltileurl="tiles/210 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.93" fov="5"/>
+      <max pan="180" tilt="27.93" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="0/0/54.9783" title="" url="{node35}" pan="113.36" description="" tilt="-2.57"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input leveltileurl="tiles/211 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.9181" fov="5"/>
+      <max pan="180" tilt="25.9181" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="30.4461/0/61.6247" title="" url="{node32}" pan="122.78" description="" tilt="1.4"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input leveltileurl="tiles/лестница детская 4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.0318" fov="5"/>
+      <max pan="180" tilt="26.0318" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-69.9084/0/53.6423" title="" url="{node46}" pan="152.93" description="" tilt="-21.14"/>
+      <hotspot id="Point02" skinid="ht_node" target="-97.4749/0/56.9522" title="" url="{node51}" pan="1.64" description="" tilt="-1.5"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input leveltileurl="tiles/лестница детская 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.5997" fov="5"/>
+      <max pan="180" tilt="27.5997" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="169.97/0/48.6082" title="" url="{node7}" pan="150.88" description="" tilt="-21.57"/>
+      <hotspot id="Point02" skinid="ht_node" target="166.225/0/53.1935" title="" url="{node45}" pan="164.84" description="" tilt="7.33"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input leveltileurl="tiles/лестница детская 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.5967" fov="5"/>
+      <max pan="180" tilt="26.5967" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="160.094/0/55.1994" title="" url="{node44}" pan="157.17" description="" tilt="-13.33"/>
+      <hotspot id="Point02" skinid="ht_node" target="-66.1662/0/53.6423" title="" url="{node46}" pan="168.58" description="" tilt="15.1"/>
+      <hotspot id="Point03" skinid="ht_node" target="-100.753/0/53.4181" title="" url="{node48}" pan="-4.62" description="" tilt="2.63"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input leveltileurl="tiles/лестница детская 3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.8212" fov="5"/>
+      <max pan="180" tilt="26.8212" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="152.004/0/52.0636" title="" url="{node43}" pan="-59.25" description="" tilt="9.17"/>
+      <hotspot id="Point02" skinid="ht_node" target="155.228/0/53.1935" title="" url="{node45}" pan="-70.03" description="" tilt="-22.51"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input leveltileurl="tiles/2 этаж коридор дети 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.4613" fov="5"/>
+      <max pan="180" tilt="25.4613" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-100.77/0/53.4181" title="" url="{node48}" pan="-8.36" description="" tilt="4.29"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input leveltileurl="tiles/2 этаж коридор дети 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.7091" fov="5"/>
+      <max pan="180" tilt="26.7091" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="156.396/0/53.1935" title="" url="{node45}" pan="86.55" description="" tilt="4.2"/>
+      <hotspot id="Point02" skinid="ht_node" target="-177.141/0/50.9227" title="" url="{node47}" pan="73.3" description="" tilt="6.12"/>
+      <hotspot id="Point03" skinid="ht_node" target="-99.4168/0/41.1642" title="" url="{node49}" pan="-101.59" description="" tilt="2.18"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input leveltileurl="tiles/2 этаж коридор дети 3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-20.5821" fov="5"/>
+      <max pan="180" tilt="20.5821" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="85.8168/0/53.4181" title="" url="{node48}" pan="84.91" description="" tilt="12.69"/>
+      <hotspot id="Point02" skinid="ht_node" target="49.4345/0/61.8319" title="" url="{node33}" pan="-99.82" description="" tilt="9.61"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input leveltileurl="tiles/коридор 3 этаж дети номер 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-24.0701" fov="5"/>
+      <max pan="180" tilt="24.0701" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-105.829/0/56.9522" title="" url="{node51}" pan="-104.97" description="" tilt="7.8"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node51">
+    <input leveltileurl="tiles/коридор 3 этаж дети номер 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.4761" fov="5"/>
+      <max pan="180" tilt="28.4761" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="150.922/0/52.0636" title="" url="{node43}" pan="92.04" description="" tilt="-6.64"/>
+      <hotspot id="Point02" skinid="ht_node" target="-106.701/0/50.2329" title="" url="{node52}" pan="-101.59" description="" tilt="-0.39"/>
+      <hotspot id="Point03" skinid="ht_node" target="70.0063/0/48.1402" title="" url="{node50}" pan="66.04" description="" tilt="1.25"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node52">
+    <input leveltileurl="tiles/коридор 3 этаж дети номер 3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.1165" fov="5"/>
+      <max pan="180" tilt="25.1165" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="76.1254/0/56.9522" title="" url="{node51}" pan="85.23" description="" tilt="-0.76"/>
+      <hotspot id="Point02" skinid="ht_node" target="168.396/0/56.0794" title="" url="{node53}" pan="-101.71" description="" tilt="-0.08"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node53">
+    <input leveltileurl="tiles/коридор 3 этаж дети номер 4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.0397" fov="5"/>
+      <max pan="180" tilt="28.0397" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ СУК" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="83.9705/0/50.2329" title="" url="{node52}" pan="-16.26" description="" tilt="-5.65"/>
+      <hotspot id="Point02" skinid="ht_node" target="-179.673/0/57.3859" title="" url="{node56}" pan="164.65" description="" tilt="-2.98"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node54">
+    <input leveltileurl="tiles/коридор 3 этаж номер 3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.7639" fov="5"/>
+      <max pan="180" tilt="29.7639" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-89.8158/0/57.8179" title="" url="{node55}" pan="-100.7" description="" tilt="-9.17"/>
+      <hotspot id="Point02" skinid="ht_node" target="-5.63879/0/48.3744" title="" url="{node65}" pan="-3.47" description="" tilt="-7.06"/>
+      <hotspot id="Point03" skinid="ht_node" target="-113.776/0/50.4633" title="" url="{node57}" pan="88.74" description="" tilt="0.31"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node55">
+    <input leveltileurl="tiles/коридор 3 этаж номер 4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.9089" fov="5"/>
+      <max pan="180" tilt="28.9089" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="82.4939/0/59.5277" title="" url="{node54}" pan="88.15" description="" tilt="-2.67"/>
+      <hotspot id="Point02" skinid="ht_node" target="-159.657/0/56.5167" title="" url="{node58}" pan="-96.29" description="" tilt="1.2"/>
+      <hotspot id="Point03" skinid="ht_node" target="0/0/50.9227" title="" url="{node66}" pan="-2.99" description="" tilt="-8.08"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node56">
+    <input leveltileurl="tiles/коридор 3 этаж номер 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.693" fov="5"/>
+      <max pan="180" tilt="28.693" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-19.5881/0/56.0794" title="" url="{node53}" pan="-172.9" description="" tilt="-0.16"/>
+      <hotspot id="Point02" skinid="ht_node" target="84.2156/0/50.4633" title="" url="{node57}" pan="-11.92" description="" tilt="-0.99"/>
+      <hotspot id="Point03" skinid="ht_node" target="-15.436/0/58.0332" title="" url="{node63}" pan="66.83" description="" tilt="-4.84"/>
+      <hotspot id="Point04" skinid="ht_node" target="163.915/0/52.5168" title="" url="{node62}" pan="146.4" description="" tilt="1.27"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node57">
+    <input leveltileurl="tiles/коридор 3 этаж номер 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.2316" fov="5"/>
+      <max pan="180" tilt="25.2316" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="167.554/0/57.3859" title="" url="{node56}" pan="-110.99" description="" tilt="0.17"/>
+      <hotspot id="Point02" skinid="ht_node" target="-102.661/0/59.5277" title="" url="{node54}" pan="85.32" description="" tilt="4.43"/>
+      <hotspot id="Point03" skinid="ht_node" target="29.9069/0/52.7428" title="" url="{node64}" pan="164.3" description="" tilt="-0.59"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node58">
+    <input leveltileurl="tiles/3 этаж коридор 5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-28.2583" fov="5"/>
+      <max pan="180" tilt="28.2583" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="84.4912/0/57.8179" title="" url="{node55}" pan="-33.43" description="" tilt="-5.31"/>
+      <hotspot id="Point02" skinid="ht_node" target="-48.73/0/52.9684" title="" url="{node59}" pan="-167.02" description="" tilt="-3.66"/>
+      <hotspot id="Point03" skinid="ht_node" target="-108.18/0/42.1469" title="" url="{node26}" pan="158.43" description="" tilt="-10.83"/>
+      <hotspot id="Point04" skinid="ht_node" target="-7.62435/0/52.9684" title="" url="{node29}" pan="5.6" description="" tilt="-13.48"/>
+      <hotspot id="Point05" skinid="ht_node" target="76.5389/0/51.8363" title="" url="{node67}" pan="-119.22" description="" tilt="-9.33"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node59">
+    <input leveltileurl="tiles/3 этаж коридор 6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.4842" fov="5"/>
+      <max pan="180" tilt="26.4842" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-32.6525/0/56.5167" title="" url="{node58}" pan="89.23" description="" tilt="2.97"/>
+      <hotspot id="Point02" skinid="ht_node" target="169.179/0/52.9684" title="" url="{node60}" pan="-24.54" description="" tilt="-7.85"/>
+      <hotspot id="Point03" skinid="ht_node" target="65.3806/0/52.9684" title="" url="{node61}" pan="-74.86" description="" tilt="-8.4"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node60">
+    <input leveltileurl="tiles/313 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.4842" fov="5"/>
+      <max pan="180" tilt="26.4842" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-27.5102/0/52.9684" title="" url="{node59}" pan="14.53" description="" tilt="-1.2"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node61">
+    <input leveltileurl="tiles/314 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.4842" fov="5"/>
+      <max pan="180" tilt="26.4842" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-74.7385/0/52.9684" title="" url="{node59}" pan="-137.69" description="" tilt="-4.61"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node62">
+    <input leveltileurl="tiles/307 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.2584" fov="5"/>
+      <max pan="180" tilt="26.2584" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="144.223/0/57.3859" title="" url="{node56}" pan="40.82" description="" tilt="-2.83"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node63">
+    <input leveltileurl="tiles/308 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.0166" fov="5"/>
+      <max pan="180" tilt="29.0166" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="70.042/0/57.3859" title="" url="{node56}" pan="72.13" description="" tilt="-6.23"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node64">
+    <input leveltileurl="tiles/309 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.3714" fov="5"/>
+      <max pan="180" tilt="26.3714" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="164.306/0/50.4633" title="" url="{node57}" pan="-151.25" description="" tilt="-1.48"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node65">
+    <input leveltileurl="tiles/310 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-24.1872" fov="5"/>
+      <max pan="180" tilt="24.1872" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="0/0/59.5277" title="" url="{node54}" pan="121.19" description="" tilt="2.1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node66">
+    <input leveltileurl="tiles/311 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.4613" fov="5"/>
+      <max pan="180" tilt="25.4613" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="0/0/57.8179" title="" url="{node55}" pan="99.95" description="" tilt="-4.72"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node67">
+    <input leveltileurl="tiles/312 кабинет/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.9181" fov="5"/>
+      <max pan="180" tilt="25.9181" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-119.063/0/56.5167" title="" url="{node58}" pan="-139.91" description="" tilt="1.75"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node68">
+    <input leveltileurl="tiles/лестница актовый/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.4613" fov="5"/>
+      <max pan="180" tilt="25.4613" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-42.2203/0/53.1935" title="" url="{node3}" pan="-56.52" description="" tilt="-13.47"/>
+      <hotspot id="Point02" skinid="ht_node" target="125.062/0/51.8363" title="" url="{node69}" pan="159.73" description="" tilt="-3.76"/>
+      <hotspot id="Point03" skinid="ht_node" target="-134.069/0/55.6403" title="" url="{node74}" pan="176.31" description="" tilt="17.66"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node69">
+    <input leveltileurl="tiles/водопой/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-25.9181" fov="5"/>
+      <max pan="180" tilt="25.9181" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-64.9009/0/50.9227" title="" url="{node68}" pan="3.33" description="" tilt="-1.32"/>
+      <hotspot id="Point02" skinid="ht_node" target="-80.5506/0/59.9507" title="" url="{node71}" pan="110.05" description="" tilt="-1.22"/>
+      <hotspot id="Point03" skinid="ht_node" target="-114.685/0/58.8899" title="" url="{node73}" pan="-154.41" description="" tilt="-6.08"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node70">
+    <input leveltileurl="tiles/столовка 2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-26.1452" fov="5"/>
+      <max pan="180" tilt="26.1452" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="81.7835/0/59.9507" title="" url="{node71}" pan="78.53" description="" tilt="-3.65"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node71">
+    <input leveltileurl="tiles/столовка 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.9753" fov="5"/>
+      <max pan="180" tilt="29.9753" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-36.7928/0/52.2904" title="" url="{node70}" pan="-83.99" description="" tilt="-11.8"/>
+      <hotspot id="Point02" skinid="ht_node" target="-148.113/0/51.8363" title="" url="{node69}" pan="82.41" description="" tilt="-11.72"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node72">
+    <input leveltileurl="tiles/спортзал/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="640" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="640" leveltilesize="510">
+      <level width="640" predecode="0" preload="0" height="640"/>
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.2312" fov="5"/>
+      <max pan="180" tilt="29.2312" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="0/0/58.8899" title="" url="{node73}" pan="75.14" description="" tilt="-2.71"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node73">
+    <input leveltileurl="tiles/раздевалки спорт/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.4449" fov="5"/>
+      <max pan="180" tilt="29.4449" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="4.05/0/51.8363" title="" url="{node69}" pan="-6.71" description="" tilt="-17.61"/>
+      <hotspot id="Point02" skinid="ht_node" target="-25.4167/0/58.4624" title="" url="{node72}" pan="-117.37" description="" tilt="-2.13"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node74">
+    <input leveltileurl="tiles/вход в актовый/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-27.8201" fov="5"/>
+      <max pan="180" tilt="27.8201" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="-65.5399/0/50.9227" title="" url="{node68}" pan="81.13" description="" tilt="-13.84"/>
+      <hotspot id="Point02" skinid="ht_node" target="74.0349/0/58.6764" title="" url="{node75}" pan="158.31" description="" tilt="-2.35"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node75">
+    <input leveltileurl="tiles/актовый зал/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" overlap="1" width="320" levelingroll="0" levelingpitch="0" levelbiashidpi="0.400" height="320" leveltilesize="510">
+      <level width="320" predecode="1" preload="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" tilt="0" fov="70"/>
+      <min pan="-180" tilt="-29.3382" fov="5"/>
+      <max pan="180" tilt="29.3382" fov="120"/>
+    </view>
+    <userdata author="" info="" longitude="" tags="ШКОЛА ПРОЕКТ" source="" latitude="" title="" datetime="" description="" copyright="" comment=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" background="1" backgroundalpha="1" borderalpha="1" height="20" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <hotspot id="Point01" skinid="ht_node" target="77.5798/0/55.6403" title="" url="{node74}" pan="-118.94" description="" tilt="-2.98"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" enabled="0" zoomin="0" zoomout="0" blendcolor="0x000000" zoomoutpause="1" softedge="0" zoomspeed="2" type="crossdissolve"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" contextfullscreen="0" sensitivity="8" lockedmouse="0" invertcontrol="1" lockedkeyboard="0" hideabout="0" lockedwheel="0" dblclickfullscreen="0" invertwheel="0"/>
+  </panorama>
+</tour>
